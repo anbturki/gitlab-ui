@@ -64,7 +64,7 @@
     "copy-to-clipboard": "^3.0.8",
     "dompurify": "^2.2.2",
     "echarts": "^4.2.1",
-    "highlight.js": "^9.13.1",
+    "highlight.js": "^10.4.1",
     "js-beautify": "^1.8.8",
     "lodash": "^4.17.20",
     "portal-vue": "^2.1.6",
